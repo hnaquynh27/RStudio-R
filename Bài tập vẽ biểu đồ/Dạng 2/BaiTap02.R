@@ -6,6 +6,7 @@ frequency_data = c(5, 13, 16, 9, 4, 2, 2)
 
 mean(frequency_data)
 median(frequency_data)
+sum(frequency_data)
 
 # Tính mode
 getmode = function(x){
